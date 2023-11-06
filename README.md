@@ -1,5 +1,5 @@
-# integrador_cac_mysql
-Repositorio del proyecto integrador de base de datos MySQL - Codo a Codo
+### integrador_cac_mysql
+Repositorio del proyecto integrador de base de datos MySQL - Codo a Codo - Autor: Wilver Arriaza
 
 ### ESTRUCTURA DE LA TABLA ORADORES
 
@@ -7,5 +7,5 @@ Repositorio del proyecto integrador de base de datos MySQL - Codo a Codo
 
 ### CAPTURA DE REGISTROS
 
-
+![integrador_cac_registros](https://github.com/WilverArriaza/integrador_cac_mysql/assets/110066403/83ad574f-f3bb-4004-8637-e4c0109fe6b1)
 
